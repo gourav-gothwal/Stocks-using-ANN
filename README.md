@@ -37,7 +37,7 @@ The goal is to demonstrate **deep learning in finance** using an **end-to-end ML
 📦 stock-price-prediction-ann
 ├── data/                     # Stock price dataset (CSV, not included)
 ├── notebooks/
-│   └── stock_prediction.ipynb # Main implementation
+│   └── stock_evaluation.ipynb # Main implementation
 ├── models/                   # Saved trained models
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Documentation
@@ -85,7 +85,7 @@ pip install -r requirements.txt
    jupyter notebook
    ```
 
-3. Open `notebooks/stock_prediction.ipynb` and follow the steps:
+3. Open `notebooks/stock_evaluation.ipynb` and follow the steps:
 
    * Data preprocessing
    * ANN model building
